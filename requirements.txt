@@ -32,7 +32,7 @@ python-dateutil
 python-docx
 python-time
 pytz
-pywin32==306
+pywin32==304
 qrcode
 scikit-learn
 scipy

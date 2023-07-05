@@ -32,7 +32,6 @@ python-dateutil
 python-docx
 python-time
 pytz
-pywin32
 qrcode
 scikit-learn
 scipy

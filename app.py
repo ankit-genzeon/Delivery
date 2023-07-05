@@ -6,8 +6,8 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for cross-origin requests
 
 # Load the trained model and scaler
-model = pickle.load(open('backend/model.pkl', 'rb'))
-scaler = pickle.load(open('backend/scaler.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
+scaler = pickle.load(open('scaler.pkl', 'rb'))
 
 @app.route('/')
 def index():

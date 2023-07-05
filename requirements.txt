@@ -26,13 +26,11 @@ Pillow
 plyer
 PyMuPDF
 pyparsing
-pypiwin32
 pypng
 python-dateutil
 python-docx
 python-time
 pytz
-pywin32==304
 qrcode
 scikit-learn
 scipy

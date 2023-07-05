@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 
 # Step 1: Load the dataset
-dataset = 'my-app\models\SUV_Purchase.csv'
+dataset = 'backend\SUV_Purchase.csv'
 df = pd.read_csv(dataset)
 
 # Step 2: Preprocess data

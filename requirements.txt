@@ -42,4 +42,4 @@ threadpoolctl
 typing_extensions
 tzdata
 Werkzeug
-win10toast
+

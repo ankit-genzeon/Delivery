@@ -1,0 +1,54 @@
+/* Suv.css */
+
+/* Heading */
+.heading {
+    color: rgb(225, 199, 1);
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 800;
+  }
+  
+  /* Form */
+  .form {
+    background-color: rgba(91, 85, 53, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Submit Button */
+  .submit-btn {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  /* Predictions Heading */
+  .predictions-heading {
+    color: white;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin-top: 30px;
+  }
+  
+  /* Prediction Alerts */
+  .prediction-alert {
+    margin-top: 10px;
+  }
+  
+  /* Footer Text */
+  .footer-text {
+    color: white;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+  }
+  
+  .form label {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+  }
+
+  .custom-prediction {
+    color: wheat;
+    background:none; /* Remove the background color and box */
+    font-weight: bolder; /* Set the desired font weight */
+    font-size: x-large;
+  }
+  

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import carImage from './car.jpg';
-import 'backend\SUV_Purchase.csv'; // Import custom CSS file for additional styles
+import './Suv.css'; // Import custom CSS file for additional styles
 
 function Suv() {
   const [prediction, setPrediction] = useState([]);
